@@ -1,3 +1,7 @@
 import pyautogui as auto
 
-print(auto.position())
+
+
+
+while(True):
+    print(auto.position())
