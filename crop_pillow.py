@@ -19,7 +19,7 @@ def crop(n):
 
 
 
-for i in range(2357,2570+1):
+for i in range(3087,3348+1):
     crop(i)
     #print(i)
 
