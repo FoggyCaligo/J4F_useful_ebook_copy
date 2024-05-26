@@ -17,10 +17,9 @@ def crop(n):
     image = image.crop((10,110,950, 1000))
     image.save("rsult/"+filename)
 
-crop(419)
 
 
-for i in range(410,643+1):
+for i in range(1152,1391+1):
     crop(i)
     #print(i)
 
